@@ -12,10 +12,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-manish%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Security%20Research-00d4ff?style=for-the-badge&logo=githubpages&logoColor=white)](https://your-portfolio.dev)
-[![Profile Views](https://komarev.com/ghpvc/?username=I-MaNiSh-VeRmA&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/I-MaNiSh-VeRmA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-verma-86a49b189/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out%20Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmanish362@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Security%20Research%20%26%20Projects-00d4ff?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourportfolio.dev)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC%20%26%20Blue%20Team%20Labs-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/TSDBeast)
 
 </div>
 
@@ -565,9 +565,10 @@ level: high
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-verma-86a49b189/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out%20Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmanish362@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC%20%26%20Blue%20Team%20Labs-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/TSDBeast)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out%20Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manish@youremail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Security%20Research%20%26%20Projects-00d4ff?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourportfolio.dev)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC%20%26%20Blue%20Team%20Labs-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
 
 <br/>
 
